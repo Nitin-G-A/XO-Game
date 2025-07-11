@@ -4,12 +4,6 @@
 
 A simple web-based Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. This project allows two players to play the classic game of X and O on the same device. It features a clean interface, responsive layout, and functionality to reset or start a new game.
 
-## 🌐 Live Demo
-
-> _Coming Soon... (You can deploy it on GitHub Pages, Netlify, or Vercel)_
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -56,12 +50,6 @@ A simple web-based Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScr
 - Two players take turns: Player 1 uses **O**, Player 2 uses **X**.
 - First player to align 3 of their symbols vertically, horizontally, or diagonally wins.
 - If all 9 cells are filled without a winner, the game ends in a draw.
-
----
-
-## 📸 Screenshots
-
-> _You can add screenshots of your game here after deployment._
 
 ---
 
